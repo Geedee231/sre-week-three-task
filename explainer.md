@@ -1,0 +1,2 @@
+Opsgenie: Opsgenie is an incident management platform that uses AI to prioritize and route alerts to the right people. It offers features for on-call scheduling, escalation policies, and automated incident response.
+PagerDuty: PagerDuty is a digital operations management platform that uses machine learning to correlate and prioritize alerts. It provides features for incident orchestration, on-call management, and automated response actions.
